@@ -1,2 +1,3 @@
 # MultipleDicomSeriasViewer
 複数のDicomSeriasを比較するためのViewerです。
+お手数ですが、詳細についてはレポジトリ内のスライドをご確認ください。
